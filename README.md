@@ -17,6 +17,7 @@ This Python code is designed for characterizing the size of a disk ultramicroele
   - Performs baseline fitting.
   - Extracts steady-state current.
   - Calculates disk UME size and labels it on the plot.
+  - Prediction of steady state current based on the known UME size.
 
 ## Usage
 1. **Set File Paths**:
